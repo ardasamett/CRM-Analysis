@@ -13,4 +13,4 @@ CRM Analysis of customers of a company called FLO
     * CLTV Prediction with BG - NBD + Gamma-Gamma
 * 4 Possible Real Life Company Scenarios 
 
-Also, uou can find out project on [Kaggle]([https://duckduckgo.com](https://www.kaggle.com/code/sametardaerdogan/flo-crm-analysis-real-cases)).
+Also, uou can find out project on [Kaggle](https://www.kaggle.com/code/sametardaerdogan/flo-crm-analysis-real-cases).
